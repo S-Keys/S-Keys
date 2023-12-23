@@ -28,5 +28,6 @@ Olá para todos! Me chamo Sérgio Chaves
 
 <div>
   <a href="https://www.linkedin.com/in/sergiorlchaves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:sergio.chaves@outlook.com.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://007-sergio-chaves-portifolio.vercel.app/"><img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
+  <a href="mailto:sergio.chaves@outlook.com.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
